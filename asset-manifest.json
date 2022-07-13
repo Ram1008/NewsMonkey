@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/property-delear-guide/static/css/main.e6c13ad2.css",
+    "main.js": "/property-delear-guide/static/js/main.a06436f0.js",
+    "static/js/787.daa9b24e.chunk.js": "/property-delear-guide/static/js/787.daa9b24e.chunk.js",
+    "index.html": "/property-delear-guide/index.html",
+    "main.e6c13ad2.css.map": "/property-delear-guide/static/css/main.e6c13ad2.css.map",
+    "main.a06436f0.js.map": "/property-delear-guide/static/js/main.a06436f0.js.map",
+    "787.daa9b24e.chunk.js.map": "/property-delear-guide/static/js/787.daa9b24e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a06436f0.js"
+  ]
+}
